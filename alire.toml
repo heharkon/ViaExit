@@ -1,0 +1,10 @@
+name = "via_exit"
+description = "Tiny CGI library"
+version = "0.1.0-dev"
+
+authors = ["Henrik Härkönen"]
+maintainers = ["Henrik Härkönen <heharkon@iki.fi>"]
+maintainers-logins = ["heharkon"]
+licenses = "GPL-3.0-or-later"
+website = ""
+tags = ["web", "cgi"]
